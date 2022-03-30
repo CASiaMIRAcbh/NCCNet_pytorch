@@ -14,11 +14,11 @@ original data path and image size(Our EM images is 4600x4600, you may have image
 
 # What are the other python file?
 The files are other tools of nccnet. We think the most important file is lossfunc.py. It re-implement the loss function. Maybe you can
-read it and make it better.
+read it and make it better. The loss function, *ssim in indice.py cannot be fixed. Please keep using NCC as your loss function.
 
 # I have tried several times to run your code, but it still not works. What should I do?
 Maybe you can connect to us. Write an e-mail to us and we may try to solve your problems.
 
 # Will the project be fixed/upgraded in the future?
 As a new developer who try to use github, I think I will push&pull several times to practice my git skill. So maybe the project will
-have too many branches. Please use master branch. BTW, I will graduate from my master student, and try to work for some new challenge.
+have too many branches. Please use main branch. BTW, I will graduate from my master student, and try to work for some new challenges.
